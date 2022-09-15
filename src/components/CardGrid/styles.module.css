@@ -1,0 +1,16 @@
+
+.cardGridContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+.cardGridContainer li {
+list-style: none;
+}
+
+.cardGridItem {
+  margin-bottom: 1rem;
+}
+
